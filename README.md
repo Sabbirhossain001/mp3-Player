@@ -24,8 +24,8 @@ References: We used internet to clearify some function and got knowlwege about t
 
 Developers:
 
-Md Sabbir Hossain(1520953642)      [CSE327 Section:8] {}.
-Shahida Akter Chowdhury(1811205643)[CSE327 Section:8] {}.
+Md Sabbir Hossain(1520953642)      [CSE327 Section:8] {Product Owner}.
+Shahida Akter Chowdhury(1811205643)[CSE327 Section:8] {Scrum Master}.
 
 
 
