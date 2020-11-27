@@ -14,15 +14,18 @@ Functionalities of the project:
 * Search music from playlist/library
 * Have a suffle or repeat option
 
-Operating System: Windows
-Written in: Java (Object Orient Language)
-Tools: Eclipse
+Operating System: Windows.
+
+Written in: Java (Object Orient Language).
+
+Tools: Eclipse.
 
 References: We used internet to clearify some function and got knowlwege about that function
 
 Developers:
-Md Sabbir Hossain(1520953642)      [CSE327 Section:8] {}
-Shahida Akter Chowdhury(1811205643)[CSE327 Section:8] {}
+
+Md Sabbir Hossain(1520953642)      [CSE327 Section:8] {}.
+Shahida Akter Chowdhury(1811205643)[CSE327 Section:8] {}.
 
 
 
