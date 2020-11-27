@@ -23,7 +23,7 @@ Tools: Eclipse.
 Developers:
 
 Md Sabbir Hossain(1520953642)      [CSE327 Section:8] {Product Owner}.
-Shahida Akter Chowdhury(1811205643)[CSE327 Section:8] {Scrum Master}.
+Shahida Akter Chowdhury(1811205642)[CSE327 Section:8] {Scrum Master}.
 
 
 
