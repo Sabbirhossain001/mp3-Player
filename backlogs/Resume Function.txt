@@ -1,0 +1,24 @@
+public void Resume(){
+   try {
+   FIS = new FileInputStream(fileLocation);
+   BIS = new BufferedInputStream(FIS);
+  
+   player = new Player(BIS);
+   FIS.skip(songTotalLength - pauseLocation);
+  
+      } catch (FileNotFoundException | JavaLayerException ex) {
+  
+      } catch (IOException ex) {
+   }
+   new Thread(){
+   @Override
+      public void run(){
+        try{
+            player.play();
+        }
+        catch(JavaLayerException ex){
+  
+        }
+   }
+ }.start();
+}
