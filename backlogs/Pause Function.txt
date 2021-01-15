@@ -1,9 +1,0 @@
-public void Pause(){
-     if(player != null){
-         try {
-             pauseLocation = FIS.available();
-             player.close();
-         } catch (IOException ex) {
-         }
-     }
-}
